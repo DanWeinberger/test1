@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ```{r}
-test1 <- rnorm(1000, 0,1)
+test1 <- rnorm(1000, 0,2)
 hist(test1)
 ```
 
